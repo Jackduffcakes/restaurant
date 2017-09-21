@@ -101,6 +101,7 @@ p{
   background-position: center;
   background-size: cover;
 	padding:280px 0;
+  margin-left: -15px;
 }
 .logo{
 	width:130px;
@@ -341,7 +342,7 @@ color: #fff;
 
 .portfolioContainer{
 	margin:0 auto;
-	padding-left:15px;
+	padding-left:0px;
 }
 
 .Portfolio-box{
@@ -351,6 +352,7 @@ color: #fff;
 	width:100%;
 	overflow:hidden;
 	padding:0;
+  margin-left:-5px;
 }
 .Portfolio-box img{
 	margin-bottom:25px;
@@ -584,7 +586,7 @@ border: 2px solid #fff;
 /* Talk Business
 ---------------------------------*/
 .business-talking{
-	background:url(../img/section-bg2.jpg) top center no-repeat;
+	background:url(../3.jpg) top center no-repeat;
 	background-size:cover;
 	padding:60px 0 10px;
 	text-align:center;
@@ -765,7 +767,8 @@ border: 2px solid #fff;
 ---------------------------------*/
 
 .footer{
-	background:url(../img/pw_maze_black_2X.png) left top repeat;
+	background:url(../3.jpg);
+  background-size: cover;
 	padding:35px 0 35px;
 }
 .footer-logo{
